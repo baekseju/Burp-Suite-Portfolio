@@ -28,3 +28,5 @@ para obtener la certificación oficial de PortSwigger.
 | Lab | Vulnerabilidad | Dificultad | Estado |
 |-----|---------------|------------|--------|
 | File path traversal, simple case | Path Traversal | Apprentice | ✅ Resuelto |
+| Path traversal sequences blocked | Path Traversal | Apprentice | ✅ Resuelto |
+
